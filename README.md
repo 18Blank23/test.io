@@ -4,16 +4,6 @@
 - Handled form submissions using the React Hook Form.
 - Integrated Bar & Line graphs, Pie & Radar Charts to show critical elements in the data.
 
-### Screenshots - 
-
-<img width="1626" alt="Screenshot 2025-01-22 at 21 08 20" src="https://github.com/user-attachments/assets/1345cca1-ce8b-4a4e-b696-e0116e12fa50" />
-
-<img width="1165" alt="Screenshot 2025-01-22 at 21 08 35" src="https://github.com/user-attachments/assets/724f2fa1-8d47-4967-9e16-ed441e74922d" />
-
-<img width="1620" alt="Screenshot 2025-01-22 at 21 09 07" src="https://github.com/user-attachments/assets/5989656c-2bdb-4359-b9d2-293e2d10dacd" />
-
-## Getting Started
-
 First, run the development server:
 
 ```bash
